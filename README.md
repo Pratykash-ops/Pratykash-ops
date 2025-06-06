@@ -1,9 +1,11 @@
 <body>
   <center>
 <!--   <img src="https://i.imgur.com/mPdJy1T.png"/>  -->
-  <img align="center" src="https://i.pinimg.com/736x/60/e0/f3/60e0f33bb4dbe6a52ca312fc247a0d21.jpg"/>
+    <center>
+  <img align="center" style={"margin":"auto"} src="https://media.discordapp.net/attachments/1142857695192416296/1380509648326627338/3bd6d82f82d15ec93063fb4991798726.jpg?ex=6844234c&is=6842d1cc&hm=cdec856e11caecd6391fd15fd95b2a21bbc2cc2de0d21172c50309dceafe6076&=&format=webp"/>
+</center>
 <br>
-<h2 align="center">~ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 ~</h2>
+<h2 align="center">~ Welcome to my profile ~</h2>
 <div align="center">
   
   <br>
