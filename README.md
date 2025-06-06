@@ -1,7 +1,7 @@
 <body>
   <center>
 <!--   <img src="https://i.imgur.com/mPdJy1T.png"/>  -->
-  <img src="https://t4.ftcdn.net/jpg/04/04/73/39/360_F_404733910_2mIXr6RbC5G3WZJFjopVsBaR3EOM6Bqy.jpg"/>
+  <img src="https://i.pinimg.com/736x/60/e0/f3/60e0f33bb4dbe6a52ca312fc247a0d21.jpg"/>
 <br>
 <h2 align="center">~ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 ~</h2>
 <div align="center">
