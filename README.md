@@ -5,10 +5,7 @@
 <br>
 <h2 align="center">~ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 ~</h2>
 <div align="center">
-  <p>
-<!--      <img src="https://discord-readme-badge.vercel.app/api?id=1082682332047228928&nothing"/> -->
-     <img src="https://lanyard.kyrie25.me/api/1082682332047228928?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
-  </p>
+  
   <br>
 </div>
     <div align="center">
